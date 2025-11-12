@@ -81,4 +81,3 @@ Your Name
 ⭐ Star this repo if you find it helpful!
 
 You can customize this with your actual GitHub username, add screenshots, or modify the sections based on your preferences! Would you like me to help you create a more specific section or add anything else? 🚀
-<img width="847" height="3036" alt="image" src="https://github.com/user-attachments/assets/d512013f-f919-44c8-868f-43fff9320a70" />
